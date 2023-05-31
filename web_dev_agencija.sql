@@ -259,7 +259,7 @@ CREATE TABLE `zaposleni` (
 
 LOCK TABLES `zaposleni` WRITE;
 /*!40000 ALTER TABLE `zaposleni` DISABLE KEYS */;
-INSERT INTO `zaposleni` VALUES (1,'Anna','Durand','annadurand@gmail.com',3,3,3,5),(2,'Lucija','Modric','lucijamodric@gmail.com',2,3,2,2),(3,'Rasmus','Andersen','rasmusandersen@gmail.com',3,2,3,7),(4,'Tomislav','Blazevic','tomislavblazevic@gmail.com',2,1,2,2),(5,'Hamdija','Nezic','hamdijanezic@gmail.com',1,3,1,3),(6,'Oliver','Smith','oliversmith@gmail.com',3,1,3,13),(7,'Gabriel','Bernard','gabrielbernard@gmail.com',1,1,1,5),(8,'Charlotte','Johnson','charlotteohnson@gmail.com',2,2,2,13),(9,'Andrea','Larsen','andrealarsen@gmail.com',1,2,1,7),(10,'Petar','Jovanovic','petarjovanovic@gmail.com',1,2,1,1),(11,'Amina','Ahmic','aminaahmic@gmail.com',2,3,2,3),(12,'Milica','Markovic','milicamarkovic@gmail.com',3,1,3,1),(13,'Elizabeth','Smith','elizabethsmith@gmail.com',2,1,2,13);
+INSERT INTO `zaposleni` VALUES (1,'Anna','Durand','annadurand@gmail.com',3,3,3,5),(2,'Lucija','Modric','lucijamodric@gmail.com',2,3,2,2),(3,'Rasmus','Andersen','rasmusandersen@gmail.com',3,2,3,7),(4,'Tomislav','Blazevic','tomislavblazevic@gmail.com',2,1,2,2),(5,'Hamdija','Nezic','hamdijanezic@gmail.com',1,3,1,3),(6,'Oliver','Smith','oliversmith@gmail.com',3,1,3,13),(7,'Gabriel','Bernard','gabrielbernard@gmail.com',1,1,1,5),(8,'Charlotte','Johnson','charlotteohnson@gmail.com',2,2,2,13),(9,'Andrea','Larsen','andrealarsen@gmail.com',1,2,1,7),(10,'Petar','Jovanovic','petarjovanovic@gmail.com',1,2,1,1),(11,'Amina','Ahmic','aminaahmic@gmail.com',2,3,2,3),(12,'Milica','Markovic','milicamarkovic@gmail.com',3,1,3,1);
 /*!40000 ALTER TABLE `zaposleni` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!50003 SET @saved_cs_client      = @@character_set_client */ ;
